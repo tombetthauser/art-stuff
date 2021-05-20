@@ -23,3 +23,7 @@ Coming soon. Should scrape an iCloud album and process automatically into this r
 ## Past Exhibitions / CV
 
 Coming soon. Should maybe scrape from a resource easy to edit on a mobile device like a Google Doc / Sheet or just pull from a raw text file stored in this repo...
+
+***
+
+Note, when complete this repo should contain a script that converts this markdown file to a index.html file that can act as a stand-alone GitHub page link.
