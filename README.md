@@ -2,9 +2,7 @@
 
 Select individual artworks and ongoing projects from my personal visual art practice. My studio practice is currently based at the Verge Center for the Arts in Sacramento, CA where I am an ongoing studio resident. 
 
-For more information on my background please visit my [LinkedIn](http://linkedin.com/in/tombetthauser/). For information regarding my exhibition record please see my CV (link coming soon).
-
-I do have an [Instagram page](https://www.instagram.com/tombetthauser/) that I maintain for professional purposes. That said I don't personally enjoy using social media so I'm in the progress of automating my account via a separate script project.
+For more information on my background please visit my [LinkedIn](http://linkedin.com/in/tombetthauser/). For information regarding my exhibition record please see my CV (link coming soon). I do have an [Instagram page](https://www.instagram.com/tombetthauser/) that I maintain for professional purposes. That said I don't personally enjoy using social media so I'm in the progress of automating my account via a separate script project.
 
 ***
 
