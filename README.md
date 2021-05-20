@@ -1,4 +1,4 @@
-# Visual Art Portfolio
+# 🌻 Visual Art Portfolio
 
 Select individual artworks and ongoing projects from my personal visual art practice. My studio practice is currently based at the Verge Center for the Arts in Sacramento, CA where I am an ongoing studio resident. 
 
