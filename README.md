@@ -12,6 +12,10 @@ For more information on my background please visit my [LinkedIn](http://linkedin
 
 An experiment to semi-automate / simplify sharing in-progress studio shots via a repo and stand-alone html page that are updated by running a script that scrapes an iCloud album which is easily added to / changed on a mobile device.
 
+[Bandcamp Page](https://tombetthauser.bandcamp.com/)
+
+I started doing sound-based work on and off around 2012 for some installations. They occasionally turned into something that resembled music which led to an ongoing collaboration with actual-musician and visual artist Bret Ward.
+
 ***
 
 ## Current Portfolio Images
