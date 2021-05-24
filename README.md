@@ -14,7 +14,7 @@ An experiment to semi-automate / simplify sharing in-progress studio shots via a
 
 [Bandcamp Page](https://tombetthauser.bandcamp.com/)
 
-I started doing sound-based work on and off around 2012 for some installations. They occasionally turned into something that resembled music which led to an ongoing collaboration with actual-musician and visual artist Bret Ward.
+I started doing sound-based work on and off around 2012 for some installations. They occasionally turned into something that resembled music which led to an ongoing collaboration with actual-musician and visual artist [Bret Ward](https://www.instagram.com/catfax.exe/). In any case I love bandcamp as a non-toxic social media alternative and open Web 1.0 style platform and enjoy using it as a repository for all my past and current audio work.
 
 ***
 
